@@ -1,0 +1,50 @@
+* {
+	background-color: darkslategrey;
+	font-family: sans;
+	color: white;
+}
+
+h1 {
+	color: rgb(117, 243, 165);
+}
+
+h2 {
+	margin-left: 80px;
+}
+
+h3 {
+	position: relative;
+	margin-left: 120px;
+}
+
+.darker-color {
+	color: rgb(47, 79, 79);
+	background-color: lightgray;
+	margin-right: -250;
+}
+
+.lighter-color {
+	color: rgb(117, 243, 165);
+	background-color: darkslategray;
+}
+
+.colors {
+	color: rgb(231, 96, 62);
+}
+
+/* .color-background {
+	background-color: lightgray;
+	margin: 80px;
+} */
+
+.fonts {
+	color: yellowgreen;
+}
+
+.fonts-example {
+	margin-left: 160px;
+}
+
+.text-styles {
+	color: rgb(194, 103, 197);
+}
